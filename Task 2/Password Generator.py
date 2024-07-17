@@ -1,6 +1,6 @@
 print("-------------Password Generator--------------")
 import random
-import strin
+import string
 weak_password = string.ascii_lowercase
 moderate_password = string.ascii_letters + string.digits
 strong_password = string.ascii_letters + string.digits + string.punctuation
